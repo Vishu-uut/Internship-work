@@ -1,0 +1,97 @@
+.form-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.candidate-form {
+  max-width: 600px; /* Increase the max-width as needed */
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-section {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 15px;
+}
+
+label {
+  flex: 1;
+  display: block;
+  font-weight: bold;
+  margin-right: 10px;
+  text-align: left;
+  color: #282c34;
+}
+
+input {
+  flex: 2;
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.photo {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.button-container {
+  width: 100%;
+  text-align: center;
+}
+
+.button {
+  padding: 10px;
+  background-color: #61dafb;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #45a8db;
+}
+.photo {
+  max-width: 75%;
+  max-height: 150px; /* Adjust this value based on your design needs */
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  object-fit: contain;
+}
+
+/* CandidateUpdate.css */
+
+
+
+.form-container {
+background: linear-gradient(to right, #1a2e35 50%);
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.form-section label {
+color: #000000;
+}
+
+.btn-primary {
+background: linear-gradient(to right, #1cbbb4 50%);
+color: #fff;
+border: none;
+padding: 10px 20px;
+font-family: Arial, sans-serif;
+font-size: 16px;
+}

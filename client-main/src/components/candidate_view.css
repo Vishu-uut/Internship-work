@@ -1,0 +1,96 @@
+/* Custom Styles for AdminHome Component */
+
+.adminHomeWrapper {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1a2e35;
+    color: #0c0c0c;
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+  
+  .adminHomeInner {
+    width: auto;
+    margin: auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .adminHomeHeader {
+    font-weight: bold;
+    color: #1a2e35;
+    margin-bottom: 20px;
+  }
+  
+  .adminHomeTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .adminHomeTable th,
+  .adminHomeTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .adminHomeTable th {
+    background-color: #1cbbb4; /* Header background color */
+    color: white;
+  }
+  
+  .adminHomeTable td {
+    background-color: #f2f2f2; /* Cell background color */
+  }
+  
+  .adminHomeTable tr:nth-child(even) td {
+    background-color: #e6f7ff; /* Alternate row background color */
+  }
+  
+  .adminHomeButton {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    background-color: #ff4f5a; /* Button background color */
+    color: white;
+    transition: background-color 0.3s;
+  }
+  
+  .adminHomeButton:hover {
+    background-color: #1cbbb4; /* Button hover color */
+  }
+  
+  /* FontAwesome Icons Customization */
+  .faEye, .faEdit, .faTrash {
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .faEye {
+    color: #1cbbb4; /* Icon color for view */
+  }
+  
+  .faEdit {
+    color: #ffc107; /* Icon color for edit */
+  }
+  
+  .faTrash {
+    color: #dc3545; /* Icon color for delete */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .adminHomeInner {
+      width: 95%;
+    }
+  
+    .adminHomeTable {
+      display: block;
+      overflow-x: auto;
+    }
+  }
+  

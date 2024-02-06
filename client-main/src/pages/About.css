@@ -1,0 +1,76 @@
+.about-container {
+  display: flex;
+  /* Primary Color */
+  color: #ffffff;
+  padding: 20px;
+  height: 100vh;
+}
+.additional-section {
+  margin-top: 20px; /* Add margin top for spacing */
+  text-align: center; /* Center the content */
+}
+
+.additional-image {
+  width: 70%;
+  height: 50%;
+  object-fit: cover;
+  margin-bottom: 10px; /* Add margin bottom for spacing */
+}
+
+.about-left,
+.about-right {
+  flex: 1;
+}
+
+.about-image {
+  max-width: 100%; /* Adjust the width as needed */
+}
+
+.about-right {
+  padding-left: 20px;
+  text-align: left;
+  display: flex;
+  color: black;
+  flex-direction: column;
+  justify-content: center; /* Center the content vertically */
+}
+
+.about-buttons {
+  margin-top: 10px;
+}
+
+.btn-explore,
+.btn-custom1,
+.btn-custom2 {
+  background-color: #1cbbb4; /* Button Color */
+  color: #ffffff;
+  padding: 10px 20px;
+  margin-right: 10px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-custom1,
+.btn-custom2 {
+  background-color: #1cbbb4; /* Same color as the theme */
+}
+.additional-section {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.additional-image {
+  width: 60%;
+  height: 40%;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+/* Additional text styling (optional) */
+.additional-section h2 {
+  color: #333; /* Example text color */
+  padding: 0 15%; /* Centering text with padding */
+}
