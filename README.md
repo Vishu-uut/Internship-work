@@ -82,3 +82,5 @@ Once both the backend and frontend servers are running, you can access the LMS b
 For a visual demonstration of the LMS in action, please refer to the following screen recording: https://drive.google.com/file/d/1KX2xzYVOd1419kKzUb6TMYIycuuBWzqw/view?usp=sharing
 
 ---
+
+## Thank You
