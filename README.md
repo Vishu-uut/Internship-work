@@ -1,7 +1,7 @@
 # Internship-work
 
 # EdTech Learning Management System Website
-## About the LMS
+## About the LMS website 
 
 The EdTech Learning Management System is designed to provide an interactive platform for educational purposes. It offers features such as course management, user authentication, and more.
 
