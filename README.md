@@ -9,7 +9,7 @@ This repository contains two folders: `client-main` and `server-new`, which resp
 
 ## Getting Started
 
-To get the LMS up and running on your computer, follow these steps:
+To get the website up and running on your computer, follow these steps:
 
 ### 1. Clone the Repository
 
