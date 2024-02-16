@@ -1,5 +1,12 @@
 # Internship-work
 
+Contributers:
+Ashita Sirvastava : https://github.com/AshitaSri
+Dev Pratap Singh : https://github.com/Devps2003
+Vishwas : https://github.com/Vishu-uut
+Shaurya : https://github.com/Shaurya0112
+
+
 # EdTech Learning Management System Website
 ## About the LMS website 
 
