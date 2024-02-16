@@ -1,9 +1,9 @@
 # Internship-work
 
-Contributers:
-Ashita Sirvastava : https://github.com/AshitaSri
-Dev Pratap Singh : https://github.com/Devps2003
-Vishwas : https://github.com/Vishu-uut
+# Contributers:  
+Ashita Sirvastava : https://github.com/AshitaSri   
+Dev Pratap Singh : https://github.com/Devps2003  
+Vishwas : https://github.com/Vishu-uut  
 Shaurya : https://github.com/Shaurya0112
 
 
